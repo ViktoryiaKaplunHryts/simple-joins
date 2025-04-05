@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Простые_джойны)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📁Простые_джойны)](https://git.io/typing-svg)
 
 1. Выбрать книги, которые находятся в категории «Художественная литература» и относятся к жанру «Классика». Вывести название книги, категорию, жанр.
 
